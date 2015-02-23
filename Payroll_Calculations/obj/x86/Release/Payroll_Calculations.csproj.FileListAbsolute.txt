@@ -1,0 +1,4 @@
+C:\Users\Erick\Documents\Projects\Payroll_Calculations\Payroll_Calculations\bin\Release\Payroll_Calculations.exe
+C:\Users\Erick\Documents\Projects\Payroll_Calculations\Payroll_Calculations\bin\Release\Payroll_Calculations.pdb
+C:\Users\Erick\Documents\Projects\Payroll_Calculations\Payroll_Calculations\obj\x86\Release\Payroll_Calculations.exe
+C:\Users\Erick\Documents\Projects\Payroll_Calculations\Payroll_Calculations\obj\x86\Release\Payroll_Calculations.pdb
